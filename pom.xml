@@ -64,6 +64,7 @@ under the License.
         <module>e2e-test</module>
         <module>integrations</module>
         <module>dist</module>
+        <module>demo</module>
     </modules>
 
     <dependencies>
